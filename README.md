@@ -1,4 +1,4 @@
-# Install di Linux
+# Linux /Macos (unix)
 
 ```bash
 git clone https://github.com/pojokcodeid/nvim-lazy-basic.git ~/.config/nvim
