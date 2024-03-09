@@ -1,7 +1,7 @@
 # Linux
 
 ```bash
-git clone https://github.com/pojokcodeid/nvim-lazy-basic.git ~/.config/nvim
+git clone https://github.com/MY-AnggA/LazyVim.git ~/.config/nvim
 ```
 
 # Uninstall
